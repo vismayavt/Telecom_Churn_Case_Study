@@ -69,6 +69,3 @@ In the competitive telecom industry, **customer churn** poses a major challenge,
   - Targeted offers for high-risk users.
   - Improving service quality and recharge experience.
   - Enhancing customer engagement in the action phase.
----
-=======
-# Telecom_Churn_Case_Study
