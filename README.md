@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Telecom Churn Case Study
 
 ##  Project Overview
@@ -69,3 +70,6 @@ In the competitive telecom industry, **customer churn** poses a major challenge,
   - Improving service quality and recharge experience.
   - Enhancing customer engagement in the action phase.
 ---
+=======
+# Telecom_Churn_Case_Study
+>>>>>>> 3b1135aa840bcaa30d2a0830d3eb6be4266cc2d6
